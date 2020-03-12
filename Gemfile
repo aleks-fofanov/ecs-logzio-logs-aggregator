@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+
+gem "fluentd", "1.4.2"
+gem "oj", "3.5.1"
+gem "fluent-plugin-multi-format-parser", "~> 1.0.0"
+gem "fluent-plugin-concat", "~> 2.4.0"
+gem "fluent-plugin-rewrite-tag-filter", "~> 2.1.0"
+gem "fluent-plugin-logzio", "~> 0.0.20"
+gem "fluent-plugin-detect-exceptions", "~> 0.0.13"
+gem "ffi", "1.12.2"
